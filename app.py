@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Page config
 st.set_page_config(layout='wide', page_title='StartUp Analysis')
 
 # Load data
